@@ -1,2 +1,2 @@
 # Le-Huy-Phuong
-Numbers detection with opencv Python
+Please open the file word to understand what I am doing!
